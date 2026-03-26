@@ -1,7 +1,7 @@
 {
   "packs": [
     "my-pack.json",
-    "test-pack.json"
+    "danila-pack.json"
   ],
   "homeserver_url": "https://matrix.absol.ru"
 }
