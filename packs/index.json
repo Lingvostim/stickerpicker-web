@@ -1,6 +1,7 @@
 {
   "packs": [
-    "my-pack.json"
+    "my-pack.json",
+    "test-pack.json"
   ],
   "homeserver_url": "https://matrix.absol.ru"
 }
