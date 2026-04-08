@@ -3,7 +3,8 @@
     "my-pack.json",
     "danila-pack.json",
     "chacha-pack.json",
-    "vlad-pack.json"
+    "vlad-pack.json",
+    "ira-pack.json"
   ],
   "homeserver_url": "https://matrix.absol.ru"
 }
